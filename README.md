@@ -1,8 +1,8 @@
 # easyBITLOCKERkeys
 
-**Version:** 0.3.5 (PowerShell 5.1)  
+**Version:** 0.4.2 (PowerShell 5.1)  
 **Author:** Andreas Hepp  
-**Last Update:** 02/03/2025  
+**Last Update:** 23.05.2025
 
 This script (`easyBITLOCKERkeys.ps1`) retrieves all BitLocker keys (`msFVE-RecoveryInformation`) from Active Directory and displays them in a color-coded GUI:
 
@@ -35,12 +35,6 @@ Contributions, suggestions, and feedback are always welcome!
 Please open an issue or submit a pull request if you have any ideas or improvements.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# easyBITLOCKERkeys
-
-**Version:** 0.3.5 (PowerShell 5.1)  
-**Autor:** Andreas Hepp  
-**Letztes Update:** 02.03.2025  
-
 Dieses Skript (`easyBITLOCKERkeys.ps1`) liest alle BitLocker-Schlüssel (`msFVE-RecoveryInformation`) aus dem Active Directory aus und zeigt sie in einer farbcodierten GUI an:
 
 - **Kein Schlüssel vorhanden:** LightGray  
